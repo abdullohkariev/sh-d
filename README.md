@@ -2,6 +2,8 @@
 
 Marketing website for Shosh Digital — a digital agency helping small businesses grow online.
 
+**Live site: [www.shoshdigital.com](https://www.shoshdigital.com)**
+
 ## Tech
 
 Plain HTML, CSS, and JavaScript. No build step, no frameworks, no dependencies.
@@ -24,4 +26,6 @@ Open any `.html` file directly in a browser, or use VS Code Live Preview.
 
 Automatically deployed to GitHub Pages via GitHub Actions on every push to `main`.
 
-Live site: [www.shoshdigital.com](https://www.shoshdigital.com)
+---
+
+Made by [abdullohkariev](https://github.com/abdullohkariev)
