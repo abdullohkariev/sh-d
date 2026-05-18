@@ -1,21 +1,8 @@
 import { useEffect, useRef } from "react";
 import { Link } from "react-router-dom";
-import {
-  Globe,
-  Smartphone,
-  TrendingUp,
-  Share2,
-  Palette,
-  FileText,
-  Bot,
-  MessageSquare,
-  Wrench,
-  ShieldCheck,
-  ArrowRight,
-  Check,
-} from "lucide-react";
+import { Globe, TrendingUp, Palette, Bot, Wrench, ArrowRight, Check } from "lucide-react";
 import { Button } from "@/components/ui/button";
-import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
+import { Card, CardContent } from "@/components/ui/card";
 import { Layout } from "@/components/Layout";
 
 const services = [

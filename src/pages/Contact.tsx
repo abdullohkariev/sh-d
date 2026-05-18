@@ -1,5 +1,5 @@
 import { useEffect, useRef } from "react";
-import { MessageCircle, Send, Mail, Phone, MapPin } from "lucide-react";
+import { MessageCircle, Send, Mail, Phone } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { Card, CardContent } from "@/components/ui/card";
 import { Layout } from "@/components/Layout";
