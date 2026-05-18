@@ -2,7 +2,7 @@
 
 Marketing website for Shosh Digital — a digital agency helping small businesses grow online.
 
-**Live site: [www.shoshdigital.com](https://www.shoshdigital.com)**
+**Live site: [abdullohkariev.github.io/sh-d](https://abdullohkariev.github.io/sh-d)**
 
 ## Tech
 
